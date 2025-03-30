@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project is a **front-end clone of Amazon’s homepage**, built using **pure HTML and CSS**. It is designed to replicate the look and feel of the original Amazon website, focusing on layout, typography, and responsiveness. The project is inspired by a YouTube tutorial and serves as a great learning exercise for beginners looking to improve their web development skills.
 
-> 🔗 **Live Demo:** [Click Here](#) *(Replace with your hosted link)*
+> 🔗 **Live Demo:**  https://nipunsharma2003.github.io/Amzaon-Clone/*
 
 
 ## 🎯 Features
