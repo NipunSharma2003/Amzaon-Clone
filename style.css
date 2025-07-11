@@ -120,7 +120,7 @@ font-size: 30px;
 
 /*Hero-Section*/
 .hero-section{
-    background-image:url("heroimg.jpg");/*abhi dekegi nhi qki hero section ko height width nhii di hai*/
+    background-image:url("Heroimg.jpg");/*abhi dekegi nhi qki hero section ko height width nhii di hai*/
     height: 300px;
     background-size:cover;
     display:flex;
